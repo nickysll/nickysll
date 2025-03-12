@@ -1,6 +1,6 @@
 # Hello, world! 👻
 
-<p align="left">✨ Atualmente trabalho com qualidade e governança de dados. <br>🚀 Estou estudando mais sobre Python, SQL, Pyspark e demais ferramentas para otimizar o trabalho com dados! <br>🫡 Contate-me pelo linkedin para trocarmos experiências. :)</p>
+<p align="left">✨</p>
 
 ###
 
