@@ -69,6 +69,7 @@ Projeto para registrar, organizar e analisar informações de vendas, simulando 
 
 ---
 
+
 ## GitHub Stats
 
 <div align="center">
