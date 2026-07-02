@@ -1,7 +1,5 @@
-# Oi, eu sou a Nicoly 👩🏻‍💻✨
+# Sou a ni 👩🏻‍💻✨
 ### BI | Data Analytics | Python | SQL | Power BI
-
-# Oi, eu sou a Nicoly Moreira 👩🏻‍💻✨
 
 Sou formada em **Ciências Econômicas** e atualmente estudo **Ciência de Dados**.  
 Tenho experiência com **BI, análise de dados, Power BI, SQL e Python**, atuando na criação de dashboards, indicadores, automações e análises para apoiar decisões de negócio.
